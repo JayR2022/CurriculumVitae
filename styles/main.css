@@ -1,0 +1,40 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+
+header > h1{
+    font-size:50px;
+    font-style: normal;
+    margin-top: 1cm;
+    text-align: left;
+}
+
+article > h1{
+    font-size:x-large;
+}
+
+footer{
+    margin-top: 2cm;
+    margin-bottom: 1cm;
+}
+
+a{color: black;}
+a:link {color:  blue;}
+a:visited{color: red;}
+a:hover{color: green;}
+a:active{color: orange;}
+
+dt{
+    font-style: italic;
+}
+
+dd{
+    font-weight: normal;
+}
+
+table{
+    text-align: left;
+}
